@@ -1,0 +1,1 @@
+process.stdout._write("Teste");

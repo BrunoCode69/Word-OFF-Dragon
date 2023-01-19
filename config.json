@@ -1,0 +1,20 @@
+{
+    "prefix": "w!",
+    "acess_token": "APP_USR-6645195817941775-010219-47da826e286b2214abb4c12ee03b1ff9-814797581",
+    "owners": ["807387433347710999"],
+    "emoji_erro": "<:cancell:980770947571277834>",
+    "emoji_sucess": "<:ok:980770829996523540>",
+    "emoji_diamante": "<:dima:1016413328324702370>",
+    "emoji_ouro": "<:moeda:980784216600096838> ",
+    "emoji_pesca": "<:pesca:1059237294969716847> ",
+    "emoji_machado": "<:machado:996191344513011754>",
+    "emoji_potion_cura": "<:cura:1059239445389385748>",
+    "emoji_compra_dima": "<:compra:1059567302380617928> ",
+    "emoji_madeira": "<:madeira:1060368246307561564>",
+    "emoji_apple": "<:apple:1060374741157941400>",
+    "emoji_resorces": "<:resorces:1060822411387346944>",
+    "emoji_casa": "<:casa:1060836656816607283>",
+    "100_dimas_value": 1.50,
+    "250_dimas_value": 3.50,
+    "500_dimas_value": 5.00
+}
